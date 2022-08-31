@@ -1,6 +1,6 @@
 # Invoice-Download-SAP
 
-invoinceDownload.py is a script that automates the download of invoices from the afip website. The output is an .xlsx file with the data of each invoice.
+invoiceDownload.py is a script that automates the download of invoices from the afip website. The output is an .xlsx file with the data of each invoice.
 
 rfcSAP.py is used to establish a RFC connection with SAP and use it's well known RFC_READ_TABLE to read data from it's tables. 
 
