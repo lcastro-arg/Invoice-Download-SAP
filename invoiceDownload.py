@@ -20,9 +20,9 @@ import shutil
 
 
 #--- Paths --------------------------------------------------------'
-PATH = 'C:\\Program Files (x86)\\chromedriver.exe'
-SRC  = 'C:\\Users\\user\\Downloads\\Mis Comprobantes Recibidos - CUIT 30540080298.xlsx'
-DST = 'C:\\Users\\user\\OneDrive - rioplatense.com\\Proyectos\\Administración\\'
+PATH = 'chromedriver.exe_path'
+SRC  = 'src_path'
+DST = 'dest_path'
 
 #--- Classes ----------------------------------------------------------'
 class Afip():
